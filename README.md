@@ -1,4 +1,4 @@
-# Hi 👋, I'm nihalpj
+# Hi 👋, I'm Nihal
 
 ### Senior Product Manager | Fintech Specialist | AI & Open Source Enthusiast
 
@@ -6,6 +6,7 @@
 
 - 🔭 I'm currently working on **🔭 I'm currently working on
 Building a UPI Payment Stack.
+Building Red Teaming MCP Tool.
 Developing a Mobile AI Assistant layer for Ubuntu Touch with local context management.**
 
 - 🌱 I'm currently learning **Local LLM orchestration using Ollama and RAG architectures.
