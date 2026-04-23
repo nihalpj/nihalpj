@@ -25,7 +25,7 @@ Hardware: PC builds for AI training and High-Performance setups.**
 
 - ⚡ Fun fact **I am a dairy-free foodie who has been lifting weights for over a decade, and I spend my free time analyzing BMW M-series engines.**
 
-- 👨‍💻 All of my projects are available at **[https://nihal-fintech-architect.lovable.app](https://nihal-fintech-architect.lovable.app)**
+- 👨‍💻 All of my projects are available at **[https://nihalpj.co.in](https://nihalpj.co.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
